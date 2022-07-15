@@ -2,3 +2,5 @@
 |S.no|Name|
 |:-----|:-----|
 |1|Google Form Clone|
+|2|JS, async|
+|3|NetAutomater|
